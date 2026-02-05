@@ -4,6 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Privacy Policy – Soulfulness</title>
+  <meta name="description" content="Privacy Policy for Soulfulness – your data stays local, private, and secure.">
 
   <style>
     body {
@@ -13,23 +14,33 @@
       background: linear-gradient(to bottom right, #e0f7e9, #d0f0c0);
       color: #2e3d2f;
       line-height: 1.7;
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
     }
 
     .container {
       max-width: 800px;
-      margin: 20px auto; /* reduced margin for above fold */
+      margin: 20px auto;
       padding: 30px 35px;
       background-color: rgba(255, 255, 255, 0.95);
       border-radius: 16px;
       box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
-      min-height: 100vh; /* ensures content starts at the top of viewport */
+      flex: 1;
     }
 
     h1 {
       text-align: center;
       color: #2e7d32;
       font-size: 2em;
+      margin-bottom: 15px;
+    }
+
+    .effective-date {
+      text-align: center;
+      font-weight: bold;
       margin-bottom: 25px;
+      color: #388e3c;
     }
 
     h2 {
@@ -61,6 +72,16 @@
       text-align: center;
     }
 
+    .footer {
+      text-align: center;
+      font-size: 0.9em;
+      color: #2e7d32;
+      padding: 15px 0;
+      border-top: 1px solid #a5d6a7;
+      background: rgba(224, 247, 233, 0.5);
+      margin-top: auto;
+    }
+
     @media (max-width: 600px) {
       .container {
         margin: 15px;
@@ -71,9 +92,9 @@
 </head>
 
 <body>
-  <div class="container">
+  <div class="container" role="main">
     <h1>Privacy Policy for Soulfulness</h1>
-    <div class="effective-date">Effective Date: January 2026</div>
+    <div class="effective-date">Effective Date: <span>January 2026</span></div>
 
     <p>
       Soulfulness is a mindfulness and spiritual wellness application designed for personal reflection.
@@ -106,7 +127,7 @@
     <h2>Notifications</h2>
     <p>
       Optional local notifications may be used to provide reminders or enhance the user experience.
-      Notification data is processed locally on the device and is not transmitted externally.
+      Notification data is processed locally and is never transmitted externally.
     </p>
 
     <h2>User Control</h2>
@@ -146,10 +167,14 @@
       </p>
     </div>
   </div>
+
+  <div class="footer">
+    “Soulfulness – your calm, private space for reflection and mindful growth.”
+  </div>
 </body>
 </html>
 
-</html>
+
 
 
 
