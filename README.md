@@ -1,6 +1,9 @@
-# soulfulness-privacy
+# Soulfulness – Privacy Policy
 
-Soulfulness is a mindfulness and spiritual wellness app focused on reflection,
-journaling, and calming interactive experiences.
+Official Privacy Policy for the **Soulfulness** mobile app by Kael Visions.
 
-This repository hosts the public privacy policy for the Soulfulness mobile app.
+- **Last updated:** 
+- **Contact:** kael.visions@gmail.com
+
+This repository hosts the Privacy Policy page linked from the app and its Google Play listing.
+
