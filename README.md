@@ -1,4 +1,4 @@
-# Soulfulness
+# soulfulness-privacy
 
 Soulfulness is a mindfulness and spiritual wellness app focused on reflection,
 journaling, and calming interactive experiences.
